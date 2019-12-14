@@ -1,0 +1,5 @@
+D:\Desktop\C#学习\TCP\_001_socket编程_tcp_客户端D\_001_socket编程_tcp_客户端D\bin\Debug\_001_socket编程_tcp_客户端D.exe.config
+D:\Desktop\C#学习\TCP\_001_socket编程_tcp_客户端D\_001_socket编程_tcp_客户端D\bin\Debug\_001_socket编程_tcp_客户端D.exe
+D:\Desktop\C#学习\TCP\_001_socket编程_tcp_客户端D\_001_socket编程_tcp_客户端D\bin\Debug\_001_socket编程_tcp_客户端D.pdb
+D:\Desktop\C#学习\TCP\_001_socket编程_tcp_客户端D\_001_socket编程_tcp_客户端D\obj\Debug\_001_socket编程_tcp_客户端D.exe
+D:\Desktop\C#学习\TCP\_001_socket编程_tcp_客户端D\_001_socket编程_tcp_客户端D\obj\Debug\_001_socket编程_tcp_客户端D.pdb
